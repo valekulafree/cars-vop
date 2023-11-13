@@ -14,9 +14,15 @@
   ```
   npm run dev:ssr
   ```
-  Open your browser and navigate to http://localhost:4200/
+  Open your browser and navigate to
+  ```
+  http://localhost:4200/
+  ```
   Access to API
-  Open your browser and navigate to http://localhost:4200/api/
+  Open your browser and navigate to 
+  ```
+  http://localhost:4200/api/
+  ```
 
   build production server:
   ```
@@ -27,9 +33,15 @@
   ```
   npm run serve:ssr
   ```
-  Open your browser and navigate to http://localhost:4000/  
+  Open your browser and navigate to 
+  ```
+  http://localhost:4000/  
+  ```
   Access to API
-  Open your browser and navigate to http://localhost:4000/api
+  Open your browser and navigate to 
+  ```
+  http://localhost:4000/api
+  ```
 
 ## Connect with us!
 
