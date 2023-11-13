@@ -10,41 +10,41 @@
 
 ## Running tasks
 
-  Running app in development mode:
+  - Running app in development mode:
   ```
   npm run dev:ssr
   ```
-  Open your browser and navigate to
+  - Open your browser and navigate to
   ```
   http://localhost:4200/
   ```
-  Access to API:
-  Open your browser and navigate to 
+  - Access to API.
+  - Open your browser and navigate to 
   ```
   http://localhost:4200/api/
   ```
 
-  build production server:
+  - build production server:
   ```
   npm run build:ssr
   ```
 
-  run production server: 
+  - run production server: 
   ```
   npm run serve:ssr
   ```
-  Open your browser and navigate to 
+  - Open your browser and navigate to 
   ```
   http://localhost:4000/  
   ```
-  Access to API:
-  Open your browser and navigate to 
+  - Access to API.
+  - Open your browser and navigate to 
   ```
   http://localhost:4000/api
   ```
 
-## Connect with us!
+## Connect with me!
 
-- [Subscribe to the Nx Youtube Channel](https://youtu.be/vvfc7plrRoY)
+- [Subscribe to the Cars-VOP Youtube Channel](https://youtu.be/vvfc7plrRoY)
 
 ## Good luck! 
