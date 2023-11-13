@@ -5,6 +5,11 @@ async function bootstrap() {
   const app = await NestFactory.create(AppModule);
   app.setGlobalPrefix('api');
   await app.listen(process.env['PORT'] || 4000);
+
+  if (process.env['PORT'])
+    console.log('Server is running on port: ' + process.env['PORT'])
+  else
+    console.log('Server is running on port: 4000');
 }
 
 // Webpack will replace 'require' with '__webpack_require__'
